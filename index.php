@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -7,7 +6,7 @@
 </head>
 <body>
     <p style="font-family: Arial, sans-serif; font-size: 24px; color: #333; text-align: center; margin-top: 50px;">
-        This is a test website.
+        <?php echo This is a test website.";?>
     </p>
 </body>
 </html>
