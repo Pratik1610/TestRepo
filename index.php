@@ -6,7 +6,7 @@
 </head>
 <body>
     <p style="font-family: Arial, sans-serif; font-size: 24px; color: #333; text-align: center; margin-top: 50px;">
-        <?php echo This is a test website.";?>
+        <?php echo This is a test website. Hello from github.";?>
     </p>
 </body>
 </html>
